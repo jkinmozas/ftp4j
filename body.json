@@ -1,0 +1,218 @@
+{
+  "body": [
+    {
+      "name": "Carne",
+      "title": "Recetas de carne",
+      "listcontent": [
+        {
+          "contentname": "Ternera rellena",
+          "contentimg": "http://www.recetasderechupete.com/wp-content/uploads/2015/11/falda_ternera_rellena-525x360.jpg",
+          "contentdesc": "Carne enrollada rellena",
+          "contentlist": [
+            {
+              "item": "1 falda de ternera de 1 kg."
+            },
+            {
+              "item": "4 pimientos morrones"
+            },
+            {
+              "item": "150 gr. panceta"
+            },
+            {
+              "item": "2 huevos cocidos"
+            },
+            {
+              "item": "Aceitunas sin hueso"
+            },
+            {
+              "item": "1 cebolla"
+            },
+            {
+              "item": "½ pimiento rojo"
+            },
+            {
+              "item": "2 zanahorias"
+            },
+            {
+              "item": "2 dientes de ajo"
+            },
+            {
+              "item": "1 hoja de laurel"
+            },
+            {
+              "item": "1 ramita de tomillo"
+            },
+            {
+              "item": "2 tomates maduros"
+            },
+            {
+              "item": "100 ml. vino blanco"
+            },
+            {
+              "item": "250 ml. caldo de pollo"
+            },
+            {
+              "item": "Aceite de oliva virgen extra"
+            },
+            {
+              "item": "Sal (al gusto)"
+            },
+            {
+              "item": "Cordel de cocina"
+            }
+          ],
+          "content": "Comenzamos limpiando bien la pieza de carne de restos de grasa que pueda tener.\nLa estiramos sobre una superficie de trabajo, salamos la carne ligeramente por el interior y colocamos todos los ingredientes del relleno, la panceta, el pimiento morrón troceado, los huevos cocidos y las aceitunas.\nEnrollamos la falda hasta que nos quede un cilindro, intentando mantenerla lo más apretada posible.\nAtamos bien con el cordel de cocina hasta asegurarnos de que no se nos abrirá por ningún lado.\nEn una cazuela, que luego emplearemos para el guiso, calentamos un chorrito de aceite de oliva y doramos el rollo que hemos hecho con la carne. Tomaros vuestro tiempo para sellar bien la carne por todas sus caras. Reservamos.\nEn la misma cazuela, con el resto de aceite que hemos utilizado para dorar la carne, añadiendo una pizca más si fuera necesario, doramos las verduras.\nSofreiremos la cebolla, el pimiento rojo, el ajo y las zanahorias, con la hoja de laurel y la ramita de tomillo. Serán necesarios unos 20 minutos a temperatura media hasta que las verduras estén bien cocinadas.\nSi luego optáis por triturarlas verduras para que quede una salsa ligada, no será demasiado importante el tamaño, más o menos regular del corte de las verduras.\nSi, por el contrario, preferís dejar la guarnición del rollo de ternera con las verduritas enteras. Os recomiendo que las troceéis de forma regular y de un tamaño pequeño.\nCocción de la carne rellena y presentación final\nCuando tengamos listas las verduras añadimos el vino blanco y la carne reservada.\nDejamos que se cocine 2 minutos para evaporar el alcohol e incorporamos el tomate pelado y troceado. Añadimos el caldo o el agua, salamos y dejamos que se cocine el guiso durante una hora y media.\nEn este punto retiramos la carne y trituramos las verduras pasándola por el pasapuré o simplemente con una batidora.\nUn punto crucial de esta receta es esperar a que la carne esté fría. Y luego proceder a retirar el cordel de cocina y cortarla. Con esto conseguiremos que los pedazos nos queden perfectos, sin que se deshagan o se salga el relleno.\nServiremos el plato cortando la carne en lonchas no muy gruesas y con la salsa por encima.\nPodemos perfectamente preparar la falda de ternera rellena con un día de antelación al momento de servirla. Calentar, tanto la carne como la salsa una vez que esta esté cortada."
+        },
+        {
+          "contentname": "Cocido catalan",
+          "contentimg": "http://www.recetasderechupete.com/wp-content/uploads/2015/12/escudella_catalana-768x527.jpg",
+          "contentdesc":"Plato preparado con carnes de cerdo o ternera, legumbre y hortalizas, casi siempre garbanzos y patatas",
+            
+          "contentlist": [
+            {
+              "item": "1 puerro"
+            },
+            {
+              "item": "2 zanahorias"
+            },
+            {
+              "item": "1 nabo"
+            },
+            {
+              "item": "2 ramas de apio"
+            },
+            {
+              "item": "2 patatas grandes"
+            },
+            {
+              "item": "1 chirivía"
+            },
+            {
+              "item": "1 cebolla"
+            },
+            {
+              "item": "150 gr. garbanzos"
+            },
+            {
+              "item": "1 trozo de col"
+            },
+            {
+              "item": "1 butifarra negra y otra blanca"
+            },
+            {
+              "item": "1 hueso de pata de ternera"
+            },
+            {
+              "item": "1 hueso de morcillo de ternera"
+            },
+            {
+              "item": "1 hueso de espalda de ternera"
+            },
+            {
+              "item": "1 trozo de jamón"
+            },
+            {
+              "item": "1 uña y codillo de cerdo"
+            },
+            {
+              "item": "1 trozo de espinazo de cerdo"
+            },
+            {
+              "item": "1 carcasa y espinazo de pollo"
+            },
+            {
+              "item": "1 zanco de pollo"
+            },
+            {
+              "item": "Pasta gallets o tiburones"
+            }
+          ],
+          "content": "Las carnes que estén en salazón o saladas las ponemos a desalar cubriéndolas de agua 24 horas antes del momento en que nos vayamos a poner a preparar la escudella. Yo he puesto el trozo de jamón, la uña y codillo de cerdo y el espinazo de cerdo a remojo cambiándole el agua 2 o 3 tres veces a los largo de 24 horas.\nEl resto de carnes y huesos, salvo la que utilizaremos para la ilota y las butifarras, las ponemos del día anterior en agua con vinagre para que se desangren y limpien impurezas.\nLa noche de antes ponemos los garbanzos en remojo con un puñado de sal gorda y agua templada. Con respecto a la temperatura del agua. Tradicionalmente se dice que los garbanzos deben de entrar en contacto con el agua.\nCubrimos de agua templada y los dejamos a temperatura ambiente, jamás en la nevera. Al día siguiente colamos los garbanzos y reservamos.\nCuando tengamos todos los ingredientes listos colocamos en una olla bien grande todos los huesos y carnes excepto las de pollo y las butifarras. Cubrimos con agua, unos 7-8 litros y ponemos a cocer.\nTenemos que tener en cuenta que la cantidad de líquido se reducirá mucho durante el proceso. En mi caso he utilizado mi olla más grande y toda el agua que podía poner.\nCocemos las carnes durante 1 hora retirando la espuma que se irá creando. Añadimos la carcasa de pollo, el espinazo de pollo y el zanco y seguimos cociendo durante 1 hora más.\nAñadimos los garbanzos ya remojados y todas las verduras excepto las patatas. Continuamos la cocción 1 hora más.\nLos garbanzos podemos ponerlos a cocer en una bolsita de tela para que, después en el momento de servir podamos hacerlo por separado.\nIncorporamos las patatas y la butifarra y cocinamos 30 minutos más. En este momento comprobamos la sal y añadimos la que sea necesaria.\nPresentación final de la escudella\nRetiramos las carnes y las verduras de la cazuela, colocándolas en fuentes separadas.\nColamos el caldo para retirar restos de la carne y nos quede una sopa limpia.\nEn este punto podemos continuar con el proceso o guardar el caldo en el frigo, una vez que se haya enfriado, hasta el día siguiente. Así conseguimos que toda la grasa suba y se solidifique en la superficie.\nPodremos retirarla con facilidad para conseguir un plato más ligero, menos graso e igual de sabroso.\nPreparamos las pilotas. Para ello en un bol mezclamos todos los ingredientes menos la harina. Las dos carnes picadas, un buen manojo de perejil, el diente de ajo troceado, el huevo entero, el pan rallado y la sal. Amasamos hasta conseguir una pasta homogénea y formamos 4 o 5 porciones alargadas con las manos.\nEnharinamos cada una de las bolas y reservamos.\nPonemos al fuego el caldo y cuando comience a hervir añadimos las pilotas.\nCocemos las bolas de carne durante unos 20 minutos y las retiramos.\nAñadimos la pasta, los gallets, al caldo y la cocinamos el tiempo que indique el fabricante.\nServimos la escudella en platos individuales añadiendo parte de las pilotas cortadas en rodajas.\nEn la mesa pondremos además una fuente con el resto de pilotas. Otras con las carnes que podamos aprovechar y las butifarras y otra con las verduras y los garbanzos.\n"
+        }
+
+      ]
+    },
+    {
+      "name": "Pescado",
+      "title": "Recetas de pescado",
+      "listcontent": [
+        {
+          "contentname": "Rodaballo al horno",
+          "contentimg": "http://www.recetasderechupete.com/wp-content/uploads/2014/10/Rodaballo-al-horno-20-copia-525x360.jpg",
+          "contentdesc": "Una receta sencilla para 4 personas y a buen precio",
+          "contentlist": [
+            {
+              "item": "1 rodaballo de 2 Kg."
+            },
+            {
+              "item": "4 patatas gallegas grandes"
+            },
+            {
+              "item": "2 cebollas grandes"
+            },
+            {
+              "item": "3 dientes de ajo gordos"
+            },
+            {
+              "item": "1 manojo de perejil fresco"
+            },
+            {
+              "item": "1 vaso de vino blanco"
+            },
+            {
+              "item": "Un chorrito de aceite de oliva virgen extra"
+            },
+            {
+              "item": "Sal (al gusto)"
+            }
+          ],
+          "content": "Cortamos en juliana las cebollas. Preparamos una sartén con un fondo generoso de aceite de oliva virgen extra. Echamos las cebollas a la sartén. Las tendremos a fuego medio hasta que queden transparentes.\nCuando la cebolla esté lista, las pondremos en la fuente del horno. Reservamos. Cortamos las patatas en láminas de 1 cm de grosor, ¡aproximadamente! Las salamos y en el mismo aceite en el que hemos cocinado las cebollas, freiremos las patatas. No deben quedar muy hechas, sólo un punto crujiente y doradas, terminaran de cocinarse en el horno. Cuando estén listas las patatas, las incorporamos a la fuente del horno.\nColocaremos las patatas bordeando la fuente y la cebolla formará una cama en el centro. Lavamos bien el rodaballo y salamos. Lo ponemos sobre la cama de cebolla y patatas.\nPrecalentamos el horno a 180° C, con calor abajo.\nPelamos los ajos y picamos el perejil. Los pasamos por el mortero.\nA continuación añadimos el vaso de vino blanco al mortero y mezclamos con el ajo y el perejil previamente machacado. Removemos y lo echamos sobre el rodaballo. Al mismo tiempo echamos un chorrito del aceite de oliva virgen extra con el que hemos cocinado la cebolla y las patatas.\nLo metemos al horno. Pondremos papel aluminio por encima cubriendo toda la bandeja. Vamos a mantenerlo cubierto a 180°, con calor sólo abajo, durante 25 minutos.\nRetiramos el papel aluminio y lo tendremos otros 15 minutos, a 180° C, con calor arriba y abajo.\nVigilar que no se pase, porque dependiendo del horno, los tiempos pueden variar minuto más o minuto menos. Servimos y degustamos el rodaballo al horno bien calentito. Una porción de pescado, junto a unas patatas y un poco de cebolla."
+        },
+        {
+          "contentname": "Pastel de Cabracho",
+          "contentimg": "http://www.recetasderechupete.com/wp-content/uploads/2009/05/pastel_cabracho.jpg",
+          "contentdesc": "Este paté o puding de Cabracho se ha convertido en uno de los platos más populares en las cartas de muchos restaurantes de España. Quizás un gran aliado de las recetas con pescado, para servirlo como aperitivo con unas tostas de pan crujiente, aunque esta receta que tomamos por popular no tiene más de 30 años",
+          "contentlist": [
+            {
+              "item": "1 Cabrachode un kilo de peso aproximadamente, luego le quitaremos las espinas."
+            },
+            {
+              "item": "1 cebolla y un puerro"
+            },
+            {
+              "item": "1 zanahoria"
+            },
+            {
+              "item": "2 hojas de laurel"
+            },
+            {
+              "item": "1 vaso de vino blanco"
+            },
+            {
+              "item": "sal y pimienta recién molida (al gusto)"
+            },
+            {
+              "item": "Aceite de oliva virgen extra"
+            },
+            {
+              "item": "200 ml de nata o crema de leche"
+            },
+            {
+              "item": "5 huevos grandes"
+            },
+            {
+              "item": "3 pimientos del piquillo"
+            },
+            {
+              "item": "2 cucharadas de tomate frito casero"
+            },
+            {
+              "item": "Mantequilla y pan rallado"
+            }
+          ],
+          "content": "Ponemos agua a hervir en una cazuela de fondo ancho.\nEchamos una zanahoria, un puerro, una cebolla entera, sal, pimienta, unas hojitas de laurel, un chorrito de aceite de oliva virgen extra y un poco de vino blanco para conseguir un caldo para cocer el cabracho. Debemos dejarlo que cueza durante 15 minutos. \nAñadimos el cabracho al caldo aún caliente y lo dejamos cocer otros 15 minutos. Cuando haya pasado ese tiempo lo sacamos, limpiamos (quitamos la piel y las espinas). Desmigamos lo mejor posible.\nSi no queréis andar quitando la piel y las espinas siempre le podéis decir al pescadero que os lo limpie y prepare en filetes. Llevaros bien con vuestra pescadera/o, es uno de vuestros grandes aliados en la cocina.\nReservamos el caldo en un bol. Lo podemos aprovechar para un arroz caldoso o una sopa de pescado y marisco. Siempre en la misma cazuela en la que hemos cocido el cabracho echamos la nata.\nHorneado y presentación final del pastel de Cabracho\nPrecalentamos el horno a 190º C.\nCalentamos a temperatura baja durante 5 minutos. Después añadimos un chorrito del caldo anterior. Apartamos del fuego.\nBatimos los huevos con el tomate frito casero y con un tenedor lo introducimos con los pimientos triturados y la nata caliente.\nAñadimos el pescado desmigado. Probamos y rectificamos de sal y pimienta.\nNormalmente no hace falta echarle sal pero puede que nos quedase soso el caldo. Batimos un poco hasta conseguir una pasta fina que queda como paté.\nUntamos un recipiente de cake con mantequilla. Espolvoreamos con un poco de pan rallado. Echamos la mezcla del pescado en el molde de cake.\nHorneamos unos 40 minutos a 180º C.\nSacamos del horno, lo dejamos enfriar y desmoldamos.\n"
+        }
+      ]
+    }
+  ]
+}
